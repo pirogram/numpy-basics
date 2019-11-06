@@ -20,6 +20,9 @@ toc:
       - code: data-types
         title: Data Types
         id: 563b0fb5-d897-406d-9621-88b7ed817812
+      - code: data-type-conversion
+        title: Data Type Conversion
+        id: a8a8e2c1-e9e1-481e-bc3b-e7c6bb895ba0
   - code: about
     title: About
     id: 5e1a0bb5-ec8f-4284-b9cd-2d2a1cb8f1c5
