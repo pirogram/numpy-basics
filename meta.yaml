@@ -26,7 +26,10 @@ toc:
   - code: indexing-slicing-iterating
     title: 'Indexing, Slicing, Iterating'
     id: b8514d84-35c5-4857-bca3-f71ca98bc7a5
-    topics: []
+    topics:
+      - code: introduction
+        title: Introduction
+        id: 6c22f6d0-4971-4f3b-a649-9fe69567005a
   - code: about
     title: About
     id: 5e1a0bb5-ec8f-4284-b9cd-2d2a1cb8f1c5
