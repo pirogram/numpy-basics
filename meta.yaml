@@ -23,6 +23,10 @@ toc:
       - code: data-type-conversion
         title: Data Type Conversion
         id: a8a8e2c1-e9e1-481e-bc3b-e7c6bb895ba0
+  - code: indexing-slicing-iterating
+    title: 'Indexing, Slicing, Iterating'
+    id: b8514d84-35c5-4857-bca3-f71ca98bc7a5
+    topics: []
   - code: about
     title: About
     id: 5e1a0bb5-ec8f-4284-b9cd-2d2a1cb8f1c5
