@@ -14,6 +14,9 @@ toc:
       - code: n-dimensional-array
         title: N Dimensional Array
         id: 2e3e2f0b-b731-4113-bc6c-31c45f01f21f
+      - code: array-creation
+        title: Array Creation
+        id: bd142498-c958-4fa7-86f4-0783c5beb656
   - code: about
     title: About
     id: 5e1a0bb5-ec8f-4284-b9cd-2d2a1cb8f1c5
