@@ -11,6 +11,9 @@ toc:
       - code: one-dimensional-array
         title: One Dimensional Array
         id: cf4a089b-e86a-454b-8a2a-4d69748fa86c
+      - code: n-dimensional-array
+        title: N Dimensional Array
+        id: 2e3e2f0b-b731-4113-bc6c-31c45f01f21f
   - code: about
     title: About
     id: 5e1a0bb5-ec8f-4284-b9cd-2d2a1cb8f1c5
