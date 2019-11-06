@@ -1,0 +1,13 @@
+code: numpy-basics
+title: NumPy Basics
+toc:
+  - code: about
+    title: About
+    id: 5e1a0bb5-ec8f-4284-b9cd-2d2a1cb8f1c5
+    topics:
+      - code: book
+        title: Book
+        id: 1562a9db-2625-49d3-82ad-5ad912925cf6
+      - code: author
+        title: Author
+        id: 01bae7f3-9589-4609-9134-79b9e5b898b0
