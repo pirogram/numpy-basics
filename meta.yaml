@@ -61,6 +61,9 @@ toc:
       - code: aggregation-functions
         title: Aggregation Functions
         id: 3b714dff-899b-4809-96e5-d8348150ef1e
+      - code: universal-functions
+        title: Universal Functions
+        id: 879d6ed3-7930-4222-a969-017310690563
   - code: about
     title: About
     id: 5e1a0bb5-ec8f-4284-b9cd-2d2a1cb8f1c5
