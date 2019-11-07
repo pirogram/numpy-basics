@@ -42,6 +42,9 @@ toc:
       - code: advanced-indexing
         title: Advanced Indexing
         id: a3566bd7-9a23-4e7c-8238-d6be24d65a0d
+      - code: boolean-indexing
+        title: Boolean Indexing
+        id: be0b09f7-c5ca-42b0-92b6-cded3864a2a4
   - code: about
     title: About
     id: 5e1a0bb5-ec8f-4284-b9cd-2d2a1cb8f1c5
