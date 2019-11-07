@@ -33,6 +33,9 @@ toc:
       - code: indexing-and-slicing-one-dimensional-array
         title: Indexing and Slicing One Dimensional Array
         id: 54821ad1-927e-4d23-a6db-a1fd09c253e0
+      - code: indexing-multi-dimensional-arrays
+        title: Indexing Multi Dimensional Arrays
+        id: 55165783-a608-41fb-8fcd-d35c43e6cad1
   - code: about
     title: About
     id: 5e1a0bb5-ec8f-4284-b9cd-2d2a1cb8f1c5
