@@ -58,6 +58,9 @@ toc:
       - code: elementwise-operations-between-array-and-scalar
         title: Elementwise Operations Between Array and Scalar
         id: 3b2c5bee-2d79-43ca-b5d7-9943f8b98a82
+      - code: aggregation-functions
+        title: Aggregation Functions
+        id: 3b714dff-899b-4809-96e5-d8348150ef1e
   - code: about
     title: About
     id: 5e1a0bb5-ec8f-4284-b9cd-2d2a1cb8f1c5
