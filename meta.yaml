@@ -30,8 +30,8 @@ toc:
       - code: introduction
         title: Introduction
         id: 6c22f6d0-4971-4f3b-a649-9fe69567005a
-      - code: indexing-and-slicing-one-dimensional-array
-        title: Indexing and Slicing One Dimensional Array
+      - code: indexing-and-slicing-one-dimensional-arrays
+        title: Indexing and Slicing One Dimensional Arrays
         id: 54821ad1-927e-4d23-a6db-a1fd09c253e0
       - code: indexing-multi-dimensional-arrays
         title: Indexing Multi Dimensional Arrays
