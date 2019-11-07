@@ -39,6 +39,9 @@ toc:
       - code: slicing-multi-dimensional-arrays
         title: Slicing Multi Dimensional Arrays
         id: 3a970a4d-acfe-4fda-8782-b7b52e02dfef
+      - code: advanced-indexing
+        title: Advanced Indexing
+        id: a3566bd7-9a23-4e7c-8238-d6be24d65a0d
   - code: about
     title: About
     id: 5e1a0bb5-ec8f-4284-b9cd-2d2a1cb8f1c5
