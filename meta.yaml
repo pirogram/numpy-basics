@@ -48,7 +48,10 @@ toc:
   - code: numpy-array-arithmetic-operations
     title: NumPy Array Arithmetic Operations
     id: d585aade-8f40-4b4d-9c8d-191fed6c9432
-    topics: []
+    topics:
+      - code: introduction-1
+        title: Introduction
+        id: 26f53e1e-4db9-4766-bc58-bc1b0dd05eb6
   - code: about
     title: About
     id: 5e1a0bb5-ec8f-4284-b9cd-2d2a1cb8f1c5
